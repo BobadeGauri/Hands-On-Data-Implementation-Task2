@@ -1,0 +1,4 @@
+Metric,Before cleaning,After cleaning
+Rows,243,240
+Duplicate rows,3,0
+Missing cells,8,0

@@ -1,0 +1,4 @@
+,Quantity,Unit_Price,Sales
+Quantity,1.0,-0.028,0.293
+Unit_Price,-0.028,1.0,0.845
+Sales,0.293,0.845,1.0
